@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "name": "STM8",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/Program Files/SDCC/include/**",
+                "app/inc/**",
+                "drivers/inc/**"
+            ],
+            "defines": [
+                "STM8S208",
+                "USE_STDPERIPH_DRIVER",
+                "_SDCC_"
+            ],
+            "compilerPath": "C:/ProgramData/chocolatey/bin/gcc.exe",
+            "cStandard": "c99",
+            "cppStandard": "c++11",
+            "intelliSenseMode": "gcc-x64",
+            "configurationProvider": "ms-vscode.makefile-tools"
+        }
+    ],
+    "version": 4
+}

@@ -1,0 +1,16 @@
+{
+    "cSpell.enabled": false,
+    "files.exclude": {
+        "build/": true
+    },
+    "files.associations": {
+        "stm8s_serialmonitor.h": "c",
+        "serial.h": "c",
+        "string.h": "c",
+        "keypad.h": "c",
+        "stm8s_milis.h": "c",
+        "stm8s.h": "c",
+        "stm8s_conf.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
